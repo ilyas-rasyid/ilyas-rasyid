@@ -1,41 +1,50 @@
-<!--
-  GitHub Profile — Ilyas Rasyid
-  Minimal, calm, and simple.
--->
+<!-- =========================================================
+     ILYAS RASYID — GitHub Profile
+     Nature / Forest Theme
+     ========================================================= -->
 
 <div align="center">
 
-# Ilyas Rasyid
+<img
+  src="https://readme-typing-svg.demolab.com?font=DM+Sans&weight=500&size=28&duration=3500&pause=1200&color=A3B18A&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Ilyas+Rasyid+%F0%9F%8C%BF;Software+Developer;Building+thoughtful+digital+experiences;Learning+%E2%80%A2+Building+%E2%80%A2+Growing"
+  alt="Typing SVG"
+/>
 
-### Software Developer
+<br/>
 
-*Building thoughtful software, one commit at a time.*
+<sub>
+  software developer · bali, indonesia
+</sub>
 
-Bali, Indonesia 🌿
+<br/><br/>
+
+<img
+  src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=3,4,5&height=2&section=header"
+  width="70%"
+/>
 
 </div>
 
-<br>
+<br/>
 
-## About
+## 🌿 About Me
 
-I'm a software developer who enjoys turning ideas and real-world problems
-into simple, reliable, and maintainable software.
+I enjoy building software that feels **simple on the outside**
+while being thoughtfully engineered underneath.
 
-I care about clean architecture, thoughtful interfaces, and writing code
-that remains understandable as a project grows.
+My focus is creating applications that are reliable,
+maintainable, and pleasant to use.
 
-Outside of shipping features, I enjoy learning new technologies,
-refining development workflows, and continuously improving the way
-I build software.
+I believe good software isn't just about making things work —
+it's about making things **clear, intentional, and sustainable**.
 
-<br>
+<br/>
 
-## What I Do
+## 🍃 What I Do
 
 ```text
-Web Development       →  Modern, responsive web applications
-Backend Development   →  APIs, services & application architecture
+Web Development       →  Modern & responsive applications
+Backend Development   →  APIs, services & architecture
 Mobile Development    →  Cross-platform applications
 Database              →  Relational data & system design
-DevOps                 →  Containers, deployment & CI/CD
+DevOps                 →  Containers, CI/CD & deployment
