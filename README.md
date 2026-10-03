@@ -43,8 +43,8 @@ it's about making things **clear, intentional, and sustainable**.
 ## 🍃 What I Do
 
 ```text
-Web Development       →  Modern & responsive applications
-Backend Development   →  APIs, services & architecture
-Mobile Development    →  Cross-platform applications
-Database              →  Relational data & system design
-DevOps                 →  Containers, CI/CD & deployment
+Frontend Development       →  Modern & responsive applications
+Backend Development        →  APIs, services & architecture
+Mobile Development         →  Cross-platform applications
+Database                   →  Relational data & system design
+DevOps                     →  Containers, CI/CD & deployment
