@@ -1,8 +1,3 @@
-<!-- =========================================================
-     ILYAS RASYID — GitHub Profile
-     Nature / Forest Theme
-     ========================================================= -->
-
 <div align="center">
 
 <img
@@ -19,32 +14,8 @@
 <br/><br/>
 
 <img
-  src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=3,4,5&height=2&section=header"
+  src="https://capsule-render.vercel.app/api?type=rect&color=A3B18A&height=2&section=header"
   width="70%"
 />
 
 </div>
-
-<br/>
-
-## 🌿 About Me
-
-I enjoy building software that feels **simple on the outside**
-while being thoughtfully engineered underneath.
-
-My focus is creating applications that are reliable,
-maintainable, and pleasant to use.
-
-I believe good software isn't just about making things work —
-it's about making things **clear, intentional, and sustainable**.
-
-<br/>
-
-## 🍃 What I Do
-
-```text
-Frontend Development       →  Modern & responsive applications
-Backend Development        →  APIs, services & architecture
-Mobile Development         →  Cross-platform applications
-Database                   →  Relational data & system design
-DevOps                     →  Containers, CI/CD & deployment
